@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/Fab/Meshes/dart_board_low_poly_texture_0.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/Fab/Meshes/dart_board_low_poly_texture_1.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/Fab/Meshes/dart_board_low_poly_texture_2.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/Fab/Meshes/Dart_Board.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/Fab/Meshes/dart_board_low_poly.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/FirstPerson/Blueprints/BP_targer.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LU/VKELNK6IYI20X6OM74TV00.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/target/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset"
+			]
+		}
+	]
+}
