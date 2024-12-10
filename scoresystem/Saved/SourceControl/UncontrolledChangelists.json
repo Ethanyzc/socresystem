@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zhaoc/Documents/Unreal Projects/scoresystem/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/scoresystem/Content/UI/wbp_HUD.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/scoresystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/scoresystem/Content/blueprint/components/BPC_SCORE.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/scoresystem/Content/blueprint/actors/BPM_collerctor.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/scoresystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/ZBRRG14YJ913V3D8H8FM72.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/scoresystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/M2/DUYCR1G1MRKS7OGQMTBQRN.uasset",
+				"C:/Users/zhaoc/Documents/Unreal Projects/scoresystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9L/P04Z4Q27NXH50WFHT8ZQPS.uasset"
+			]
+		}
+	]
+}
